@@ -12,7 +12,7 @@ pip install PyQt5 qtawesome
 
 Uygulamayı çalıştırmak için terminale aşağıdaki komutu girin:
 
-    python dosya_adi.py
+    python main.py
 
     Uygulama başladığında, yapılacak görevleri eklemek veya silebilmek için arayüzü kullanabilirsiniz.
 
